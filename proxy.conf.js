@@ -13,6 +13,7 @@ const proxyConfig = [
     target: 'https://api.chucknorris.io',
     changeOrigin: true,
     secure: false,
+    logLevel: 'debug',
   },
 ];
 
