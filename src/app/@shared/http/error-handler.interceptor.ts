@@ -30,7 +30,6 @@ export class ErrorHandlerInterceptor implements HttpInterceptor {
       if (error instanceof HttpErrorResponse) {
         this.errorDialogService.openDialog(error);
       }
-
       log.error('Request error', error);
     }
     throw error;
