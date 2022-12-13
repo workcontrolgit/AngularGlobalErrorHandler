@@ -6,7 +6,7 @@ import { catchError } from 'rxjs/operators';
 import { environment } from '@env/environment';
 import { Logger } from '../logger.service';
 
-import { ErrorDialogService } from '@app/@shared/error/error-dialog.service';
+import { ErrorDialogService } from '@shared/error/error-dialog.service';
 
 const log = new Logger('ErrorHandlerInterceptor');
 
