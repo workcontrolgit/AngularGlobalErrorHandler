@@ -1,3 +1,7 @@
+# Medium publication
+
+https://fuji-nguyen.medium.com/catch-errors-globally-using-http-interceptor-in-angular-7693c951653a
+
 # AngularErrorHandler
 
 This project was generated with [ngX-Rocket](https://github.com/ngx-rocket/generator-ngx-rocket/)
